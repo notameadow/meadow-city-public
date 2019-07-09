@@ -1,2 +1,3 @@
-# meadow-city-public
-meadow.city public code
+# meadow.city 
+
+meadow.city code that the site is being built from.
